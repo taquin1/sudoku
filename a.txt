@@ -1,0 +1,6 @@
+﻿- mon-projet/
+  - functions/
+    - generate_sudoku.py   # Fonction serverless de génération du sudoku
+  - requirements.txt
+  - netlify.toml
+  - runtime.txt
